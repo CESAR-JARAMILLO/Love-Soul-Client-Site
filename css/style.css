@@ -142,6 +142,19 @@ body {
   font-size: 14px;
 }
 
+/* Footer */
+
+.footer-section {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/* Page Breaks */
+
 @media screen and (max-width:960px) {
   .service-box{
     max-width: 45%;
