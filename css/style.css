@@ -33,7 +33,7 @@ body {
 
 .showcase:before {
   content:'';
-  background: url("https://cdn.pixabay.com/photo/2017/03/18/19/58/turntable-2154823_1280.jpg") no-repeat center center/cover;
+  background: url('../images/vinyl-studio.jpeg') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
