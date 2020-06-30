@@ -144,6 +144,9 @@ body {
 }
 .service-desc{
   font-size: 14px;
+  text-align: left;
+  line-height: 1.5;
+  letter-spacing: 1.5;
 }
 
 /* Pricing Section */
@@ -341,7 +344,7 @@ body {
   height: 92vh;
 }
 
-.inner-width{
+.contact-inner-width{
   max-width: 600px;
   margin: auto;
   padding: 0 20px;
